@@ -1,0 +1,3 @@
+[submodule "book"]
+	path = book
+	url = git@github.com:PacktPublishing/Generative-AI-with-Python-and-PyTorch-Second-Edition.git
